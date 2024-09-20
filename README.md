@@ -1,3 +1,8 @@
+https://www.dropbox.com/scl/fi/6r6r3s91yg75mxoqlttkb/LP2B_HAJERI_THOMAS_GUEROUT.zip?rlkey=nbj882338clc38o6uc8i4k5b8&st=lgnwaukj&dl=0
+
+The actual game's files could not be uploaded directly here as we didn't work on github at all. I will probably take some time to upload each file one day, but currently it's just easier to download it directly off of Dropbox. 
+I just put them on GitHub so I could organize all of my projects in one place.
+
 ## Ali Hajeri - Pierre Guerout - Louis Thomas
 
 **Contains :** 
