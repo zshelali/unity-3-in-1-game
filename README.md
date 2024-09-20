@@ -36,6 +36,4 @@ Controls :
 * space to shoot the default ammos (infinite)
 * B to shoot the big missiles (30 available)
 
-### Thank you for letting us fix our mistake !! With the time you have given us we improved it and fixed some bugs.
-
-To prove that it works we have a video of the game.
+To prove that it works we have a video of the game (just in case).
